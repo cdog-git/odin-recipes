@@ -1,1 +1,3 @@
 # odin-recipes
+
+Hello! This is my first TOP project of the entire curriculum! This is going to just be a plain recipes website for now, which demonstrates what I know of the HTML language as of right now (tags, lists, text, links, images, etc). Additionally, I would like to point out that all media used in this project (if not explicitly mentioned) are not owned by me. If there are any forms of media used in this project, I will link the sources directly in a text file within this project, please go show the original creators the credit they deserve! Other than that, I hope you like my recipes website version 1!
